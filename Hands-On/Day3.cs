@@ -6,7 +6,7 @@ public class Day3
     public abstract class Animal
     {
         private string Name;
-        public void SetName(string name)
+        public  SetName(string name)
         {
             Name = name;
         }
